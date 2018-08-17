@@ -1,4 +1,4 @@
-#workday-app
+#redux-react-app
 
 ```
 Node.js         v9.3.0
@@ -10,7 +10,7 @@ redux-form      ^7.4.2
 
 #SETUP - Development mode
 ```
-$ cd workday-app
+$ cd redux-react-app
 $ npm install
 $ npm start
 Then open http://localhost:3000/ to see your app.
@@ -18,7 +18,7 @@ Then open http://localhost:3000/ to see your app.
 
 #Production Build
 ```
-$ cd workday-app
+$ cd redux-react-app
 $ npm install
 $ npm run build
 ```
@@ -32,7 +32,7 @@ You may serve it with a static server:
 
 #Folder structure
 ```
-workday-app
+redux-react-app
 ├── build
 ├── demo
 │   ├── ScreenShot-1.png
